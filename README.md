@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @AnoymousScripter
+- 👀 I’m interested in LuaU and NodejS
+- 🌱 I’m currently learning arduino ide
+- 💞️ I’m looking to collaborate on a big m5stick project
+- 📫 How to reach me discord: sarlmao
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i ate a potato
